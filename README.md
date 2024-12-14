@@ -28,7 +28,7 @@ sudo apt install ros-humble-moveit-visual-tools
 3. set up collision matirx
    
 ## scene set(sim)
-###is coming soon
+### is coming soon
 ```
 1.
 
