@@ -1,8 +1,7 @@
 # ROS2_6DoF_grasp_pipeline
 
 ## prep sim
-```
-bash
+```bash
 sudo apt install ros-humble-gazebo-ros
 sudo apt install ros-humble-gazebo-ros-pkgs
 sudo apt-get install ros-humble-gazebo-ros2-control
