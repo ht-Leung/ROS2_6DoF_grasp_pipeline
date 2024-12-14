@@ -1,4 +1,5 @@
 # ROS2_6DoF_grasp_pipeline
+![Demo Scene](demo.png)
 
 ## prep sim
 ```bash
