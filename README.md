@@ -64,14 +64,15 @@ ros2 launch vision tf_pub.launch.py
 ```
 
 
-## since we use gazebo_ros_link_attacher, we should change src/ur5e_gripper_control/config/obj_class.yaml
-
+## since we use gazebo_ros_link_attacher
+we should change src/ur5e_gripper_control/config/obj_class.yaml
+```
     # params.yaml
 obj_grasp:
   ros__parameters:
     obj_class: "salt"   #change it banana or any other
-
-## see tf, check coordinate of target obj
+```
+ see tf, check coordinate of target obj
 
 ## execuate motion and grasp in gazebo
 ```bash
