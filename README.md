@@ -81,7 +81,6 @@ ros2 launch ur5e_gripper_control demo1.launch.py
 ## real should change obj_graso.cpp. we dont need attach deattach
 
 
-## Acknowledgments
 
 ## Acknowledgments
 
